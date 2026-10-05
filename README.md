@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! I'm Renee, welcome to my profile :3
 
 <!--
 **lauyuetwai/lauyuetwai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Currently learning different things, including how to write a good introduction. One day this will be more polished!
